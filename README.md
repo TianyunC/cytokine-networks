@@ -1,6 +1,4 @@
 # cytokine-networks
-10/12/2020
-Tianyun Liu
 
 126CytokineNetworkFeatures.txt: contains the network (topology) features of 126 cytokines in a 64-dimentional embedding space.             
 14707GeneNetworkFeatures.txt contains the network (topology) features of 14,707 human genes in a 64-dimentional embedding space.          
